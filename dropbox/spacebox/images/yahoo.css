@@ -1,0 +1,44 @@
+
+.mm-lgbx .lgbx {
+    padding: 20px;
+}
+.mm-lgbx {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px !important;
+}
+body {
+    color: #333333;
+    text-align: center;
+}
+.mm-lgbx .suli .lgbx-signup {
+	border: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+.mm-lgbx {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px !important;
+}
+
+
+.mm-lgbx #fsLogin {
+    position: relative;
+}
+.clear {
+    clear: both;
+}
+fieldset {
+    padding: 10px 0;
+}
+p, form, fieldset, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+.mm-lgbx {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px !important;
+}
+
+.mm-lgbx .help-links {
+    margin-bottom: 20px;
+}

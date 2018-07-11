@@ -1,0 +1,69 @@
+.glidecontentwrapper{
+position: relative; /* Do not change this value */
+width: 350px;
+height: 350px; /* Set height to be able to contain height of largest content shown*/
+top:0px;
+right:0px;
+overflow: hidden;
+}
+/*
+	Total wrapper width: 350px+5px+5px=360px
+	Or width of wrapper div itself plus any left and right CSS border and padding
+	Adjust related containers below according to comments
+*/
+
+
+.glidecontent{ /*style for each glide content DIV within wrapper.*/
+position: absolute; /* Do not change this value */
+background: white;
+padding: 10px;
+visibility: hidden;
+width: 330px;
+}
+/*
+ Total glidecontent width: 330px+10px+10px=350px
+	Or width of wrapper div itself (not counting wrapper border/padding)
+*/
+
+.glidecontenttoggler{ /*style for DIV used to contain toggler links. */
+width: 360px;
+margin-top: 6px;
+text-align: center; /*How to align pagination links: "left", "center", or "right"
+background: white; /*always declare an explicit background color for fade effect to properly render in IE*/
+}
+/*
+ Total contenttoggler width: 350px+5px+5px=360px
+	Or total width of wrapper div (counting wrapper border/padding)
+*/
+
+.glidecontenttoggler a{ /*style for every navigational link within toggler */
+display: -moz-inline-box;
+display: inline-block;
+border: 1px solid black;
+color: #2e6ab1;
+padding: 1px 3px;
+margin-right: 3px;
+font-weight: bold;
+text-decoration: none;
+}
+
+.glidecontenttoggler a.selected{ /*style for selected page's toggler link. ".selected" class auto generated! */
+background: #E4EFFA;
+color: black;
+}
+
+.glidecontenttoggler a:hover{
+background: #E4EFFA;
+color: black;
+}
+
+.glidecontenttoggler a.toc{ /*style for individual toggler links (page 1, page 2, etc). ".toc" class auto generated! */
+}
+
+.glidecontenttoggler a.prev, .glidecontenttoggler a.next{ /*style for "prev" and "next" toggler links. ".prev" and ".next" classes auto generated! */
+}
+
+.glidecontenttoggler a.prev:hover, .glidecontenttoggler a.next:hover{
+background: #1A48A4;
+color: white;
+}

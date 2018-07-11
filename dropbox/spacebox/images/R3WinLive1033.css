@@ -1,0 +1,710 @@
+﻿
+
+.cssHIPButton {
+    padding: 0 5px;
+    width: 100%;
+}
+.cssLTButtonTD {
+    padding: 3px 4px 2px;
+}
+.cssImageTD {
+    padding: 4px 8px 4px 0;
+}
+div.cssImage {
+    background: none repeat scroll 0 0 transparent;
+}
+div.cssUserImgBkgr {
+    padding: 7px;
+}
+div.cssImageBig {
+    padding: 10px;
+    width: 114px;
+}
+div.cssASpacer {
+    margin: 4px 0;
+}
+td.cssASpacer {
+    padding: 8px 0 4px;
+}
+.cssLabel {
+    padding: 3px 3px 16px 0;
+    text-align: right;
+    vertical-align: top;
+    width: 0;
+}
+.cssTextBoxTD {
+    padding: 0 0 15px;
+}
+.cssIndent {
+    text-indent: 4px;
+}
+.cssUpgFlavor {
+    padding-left: 60px;
+}
+.cssSigning {
+    color: #0066CC;
+    font-size: 92%;
+    letter-spacing: 0.03em;
+    margin: 0;
+}
+
+
+.cssUserBtn {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    margin-left: -4px;
+    padding: 0;
+    width: 100%;
+}
+.cssUserBtnR3 {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    padding: 5px;
+}
+.cssUserBtnHoverR3 {
+    background: none repeat scroll 0 0 #F2F6FD;
+    border: 1px solid #BAD8FB;
+    padding: 4px;
+}
+.cssUsernameHover {
+    color: #000000;
+}
+.cssUT {
+    background: none repeat scroll 0 0 transparent;
+    width: 100%;
+}
+.cssUTMore {
+    background: none repeat scroll 0 0 transparent;
+    padding-left: 3px;
+    width: 100%;
+}
+.cssLT {
+    background: none repeat-x scroll left center #CFE8F5;
+    width: 100%;
+}
+.cssLTMore {
+    background: none repeat-x scroll left center #CFE8F5;
+    padding-left: 3px;
+    width: 100%;
+}
+.cssLT #ut {
+}
+.cssUT #ut {
+}
+.cssDisable {
+}
+.cssWLIDLogo16 {
+    margin-right: 2px;
+    vertical-align: middle;
+}
+.cssWLGradientCommon {
+    margin: 0;
+    padding: 0;
+}
+.cssWLGradientIMG, .cssWLGradientIMGSSL {
+    background: none repeat-x scroll left top transparent;
+    height: 86px;
+    top: 0;
+}
+.cssWLGradientNoIMG {
+    height: 86px;
+}
+.cssPMargin {
+    margin: 12px 0;
+}
+.cssAlertTextBox {
+    background-color: #FFFFAE;
+    border: 1px solid #E9EAF1;
+    padding: 8px;
+}
+div.ddMenu {
+    background-color: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    position: absolute;
+    z-index: 15;
+}
+div.ddMenuCountries {
+    background-color: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    height: 300px;
+    min-width: 233px;
+    overflow-y: auto;
+    position: absolute;
+    z-index: 15;
+}
+table.ddMenu {
+    margin: 4px;
+    min-width: 225px;
+}
+table.msngrMenu {
+    margin: 4px;
+    min-width: 175px;
+}
+table.ddRowOff {
+    border: 1px solid #FFFFFF;
+}
+table.ddRowOn {
+    background-color: #F3F7FD;
+    border: 1px solid #CEE2FB;
+}
+div.comboMenuShadow {
+    background-color: #BBBBBB;
+    left: 3px;
+    position: absolute;
+    top: 3px;
+    z-index: 10;
+}
+a.newUserOption {
+    font-size: 133%;
+    padding: 0 4px;
+}
+div.newUserPicker {
+    float: left;
+    font-weight: normal;
+    margin: 0;
+    padding: 0 0 18px;
+    width: auto;
+}
+.CredArrow {
+    margin-bottom: 1px;
+    margin-left: -7px;
+    vertical-align: 10%;
+}
+.SUFedHelp {
+    display: none;
+    float: right;
+}
+.SUPicker {
+    display: none;
+    float: left;
+}
+.cssLT .SUPicker, .cssLT .SUFedHelp {
+    display: block;
+}
+table#FedConversion p {
+    margin: 0;
+}
+table#FedConversion td {
+    padding: 6px 0;
+}
+table#FedConversion td td {
+    padding: 1px;
+}
+table#upgrade {
+    margin: 14px 0 0;
+    width: 75%;
+}
+table#upgrade td {
+    font-weight: bold;
+    padding: 8px 5px 8px 0;
+}
+.higbutton, .higbuttonblue {
+    border: 0.1em solid #00156E;
+    font-size: 95%;
+    line-height: 1.4;
+    min-width: 7em;
+    overflow: visible;
+    padding: 0 1em;
+    text-align: center;
+}
+.higbutton {
+    background: none repeat-x scroll center center #F1F1F1;
+}
+.higbuttonblue {
+    background: none repeat-x scroll center center #CFE8F5;
+}
+.LightText {
+    color: #666666;
+}
+.cssHeaderText {
+    color: #444444;
+    font-size: 133%;
+}
+.infoTD {
+    padding: 0 0 10px;
+}
+ul.adv {
+    list-style: none outside none;
+    margin-left: 0;
+    padding-left: 0;
+}
+ul.adv li {
+    background: none no-repeat scroll left top transparent;
+    margin-bottom: 13px;
+    min-height: 20px;
+    padding-left: 26px;
+}
+cssTextLogo {
+    font-size: 115%;
+    font-weight: bold;
+}
+
+
+.cssSignedInLbl {
+    float: right;
+}
+.cssLogoutWLLogo {
+    padding-bottom: 32px;
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.cssLogoutMainTD {
+    border-right: 1px solid #DDDDDD;
+    padding-left: 95px;
+}
+.cssLogoutHelpTD {
+    padding-left: 15px;
+}
+.cssIconMapClip {
+    display: inline-block;
+}
+.cssIconMapImg {
+    position: absolute;
+}
+.BodyBG {
+    background-color: #FFFFFF;
+}
+@font-face {
+    font-family: "Segoe UI Web Light";
+    font-style: normal;
+    font-weight: 100;
+    src: local("Segoe UI Light"), local("Segoe UI"), local("Helvetica Neue");
+    unicode-range: U+0000-00FF;
+}
+@font-face {
+    font-family: "Segoe UI Web Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Segoe UI"), local("Helvetica Neue");
+    unicode-range: U+0000-00FF;
+}
+@font-face {
+    font-family: "Segoe UI Web Semibold";
+    font-style: normal;
+    font-weight: bold;
+    src: local("Segoe UI Semibold"), local("Segoe UI Bold"), local("Segoe UI"), local("Helvetica Neue");
+    unicode-range: U+0000-00FF;
+}
+.TextSizeXSmall {
+    font-size: 86%;
+}
+.TextSizeSmall {
+    font-size: 86%;
+}
+.TextSizeNormal {
+    font-size: 100%;
+}
+.TextSizeLarge {
+    font-size: 150%;
+}
+.TextSizeXLarge {
+    font-size: 192%;
+}
+.TextSizeXXLarge {
+    font-size: 192%;
+}
+.TextSizeXXXLarge {
+    font-size: 192%;
+}
+.TextSizeNormalPlus {
+    font-size: 100%;
+}
+.LineHeightTight {
+    line-height: 110%;
+}
+.LineHeightStandard {
+    line-height: 142%;
+}
+.LineHeightLoose {
+    line-height: 178%;
+}
+.LineHeightXLoose {
+    line-height: 200%;
+}
+.TextBold, .TextSemiBold {
+    font-family: "Segoe UI Web Semibold","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","Helvetica Neue",Arial;
+    font-weight: bold;
+}
+.TextBoldI, .TextSemiBoldI {
+    font-family: "Segoe UI Web Semibold","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","Helvetica Neue",Arial !important;
+    font-weight: bold;
+}
+.TextLight {
+    font-family: "Segoe UI Web Light","Segoe UI Light","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","Helvetica Neue",Arial;
+}
+.TextLightI {
+    font-family: "Segoe UI Web Light","Segoe UI Light","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","Helvetica Neue",Arial !important;
+}
+.TextItalic {
+    font-style: italic;
+}
+.TextNormal {
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    white-space: normal;
+}
+:root input[type="button"], *:root input[type="submit"], *:root button {
+    background-color: rgba(182, 182, 182, 0.7);
+    border: 0 none;
+    color: #212121;
+    font-family: "Segoe UI Web Semibold","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","Helvetica Neue",Arial;
+    font-size: 100%;
+    height: 2.142em;
+    min-width: 6em;
+    padding: 3px 12px 5px;
+}
+:root .SF_Android input[type="button"], *:root .SF_Android input[type="submit"], *:root .SF_Android button {
+    font-family: "Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif";
+}
+:root input[type="button"]:hover, *:root input[type="submit"]:hover, *:root button:hover {
+    background-color: rgba(205, 205, 205, 0.82);
+}
+:root input[type="button"]:active, *:root input[type="submit"]:active, *:root button:active {
+    background-color: #212121;
+    color: #FFFFFF;
+}
+:root input[type="button"]:focus:not(.c_nobdr), *:root input[type="submit"]:focus:not(.c_nobdr), *:root button:focus:not(.c_nobdr) {
+    outline: 1px dotted #212121;
+}
+:root input.default[type="button"], *:root input.default[type="submit"], *:root button.default {
+    background-color: #2672EC;
+    color: #FFFFFF;
+}
+:root input.default[type="button"]:hover, *:root input.default[type="submit"]:hover, *:root button.default:hover {
+    background-color: #5A94F1;
+}
+:root input.default[type="button"]:active, *:root input.default[type="submit"]:active, *:root button.default:active, *:root input.default[type="button"]:hover:active, *:root input.default[type="submit"]:hover:active, *:root button.default:hover:active {
+    background-color: #212121;
+}
+:root input[type="button"]:disabled, *:root input[type="submit"]:disabled, *:root button:disabled {
+    background-color: rgba(202, 202, 202, 0.49) !important;
+    color: rgba(33, 33, 33, 0.49) !important;
+}
+:root .highContrast input[type="button"], *:root .highContrast input[type="submit"], *:root .highContrast button {
+    background-color: #000000 !important;
+    border: 2px solid #FFFFFF;
+    color: #FFFFFF;
+}
+:root input[type="text"], *:root input[type="password"], *:root input[type="email"], *:root input[type="number"], *:root input[type="tel"], *:root textarea {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #BABABA;
+    color: #212121;
+    font-family: "Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif";
+    font-size: 100%;
+    padding: 4px 8px;
+    width: 18.544em;
+}
+:root input[type="text"], *:root input[type="password"], *:root input[type="email"], *:root input[type="number"], *:root input[type="tel"] {
+    height: 1.571em;
+}
+:root input[type="text"]:hover, *:root input[type="password"]:hover, *:root input[type="email"]:hover, *:root input[type="number"]:hover, *:root input[type="tel"]:hover, *:root textarea:hover {
+    border-color: #8F8F8F;
+}
+:root input[type="text"]:focus, *:root input[type="password"]:focus, *:root input[type="email"]:focus, *:root input[type="number"]:focus, *:root input[type="tel"]:focus, *:root textarea:focus {
+    border-color: #5C5C5C;
+    outline: medium none;
+}
+:root input[type="text"]:disabled, *:root input[type="password"]:disabled, *:root input[type="email"]:disabled, *:root input[type="number"]:disabled, *:root input[type="tel"]:disabled, *:root textarea:disabled {
+    background-color: rgba(202, 202, 202, 0.49);
+    border-color: rgba(0, 0, 0, 0.15);
+    color: rgba(33, 33, 33, 0.27);
+}
+:root .highContrast input[type="text"]:disabled, *:root .highContrast input[type="password"]:disabled, *:root .highContrast input[type="email"]:disabled, *:root .highContrast input[type="number"]:disabled, *:root .highContrast input[type="tel"]:disabled, *:root .highContrast textarea:disabled {
+    background-color: #000000;
+}
+.SF_iPhone .sc {
+}
+.errorDiv, .editableLabel.error {
+    color: #C85305;
+    font-size: 86%;
+    line-height: 178%;
+    margin-bottom: 12px;
+    margin-top: 18px;
+    white-space: normal;
+}
+* {
+    line-height: 142%;
+}
+body {
+    background-color: #FFFFFF;
+    color: #000000;
+    direction: ltr;
+    font-family: "Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif";
+    font-size: 88%;
+    margin: 0;
+}
+body.SF_iPhone {
+}
+label {
+    color: #000000;
+}
+
+
+
+.SF_Android h1, .SF_Android h2, .SF_Android h3 {
+    font-family: "Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif";
+}
+
+
+
+div.placeholder {
+    background-color: transparent;
+    color: #666666;
+    margin-left: 9px;
+    margin-top: 6px;
+    white-space: nowrap;
+}
+div.placeholder.ltr_override {
+    margin-left: 9px;
+    margin-right: auto;
+    text-align: left;
+}
+div.textbox, select {
+    width: 320px;
+}
+:root select {
+    border: 1px solid #BABABA;
+    height: 32px;
+    padding-left: 5px;
+}
+:root .highContrast input[type="button"], *:root .highContrast input[type="submit"], *:root .highContrast button {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+:root .highContrast input[type="checkbox"], *:root .highContrast input[type="radio"] {
+    padding-top: 4px;
+}
+:root .highContrast input[type="checkbox"] + label, *:root .highContrast input[type="radio"] + label {
+    padding-left: 5px;
+}
+div.section {
+    margin-bottom: 30px;
+}
+div.section.inline {
+    display: inline-block;
+}
+div.section.last {
+    margin-bottom: 0;
+}
+div.row, div.section > div {
+    margin-bottom: 8px;
+}
+div.row.small, div.section > div.small {
+    font-size: 86%;
+    margin-bottom: 6px;
+}
+div.row.large, div.section > div.large {
+    margin-bottom: 10px;
+}
+div.row.label, div.section > div.label {
+    font-size: 86%;
+    margin-bottom: 4px;
+}
+div.title {
+    font-family: "Segoe UI Web Light","Segoe UI Light","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","Helvetica Neue",Arial;
+    font-size: 150%;
+}
+a.buttonLink {
+    display: inline-block;
+    font-size: 100%;
+    margin-top: 4px;
+}
+div.heading {
+    background-color: #2672EC;
+    height: 40px;
+    overflow: visible;
+    position: relative;
+    white-space: nowrap;
+    z-index: 250000;
+}
+div.heading div {
+    float: left;
+    min-width: 160px;
+    padding-left: 20px;
+}
+div.heading span {
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 150%;
+    line-height: 38px;
+}
+div.header.row.web {
+    min-width: 987px;
+}
+div.contentHolder {
+    text-align: center;
+}
+div.contentSpacer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 360px;
+}
+div.contentSpacer.popup {
+    margin-top: 80px;
+}
+div.content.web {
+    margin-left: 20px;
+    width: 640px;
+}
+div.content.popup {
+    margin-bottom: 50px;
+}
+div.loginhead, div.content.popup, div.footer.popup {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 320px;
+}
+div.loginhead {
+    margin-bottom: 30px;
+}
+h1.loginhead {
+    color: #666666;
+    font-size: 250%;
+    line-height: 50px;
+    margin-bottom: 0;
+}
+span.proof {
+    color: #666666;
+    font-size: 150%;
+}
+span.success {
+    color: #008000;
+}
+div.inlineInput, div.helpLink {
+    float: left;
+}
+input.cancel[type="button"], button.cancel, div.helpLink {
+    margin-left: 20px;
+}
+div.errorDiv.first {
+    margin-top: 0;
+}
+input, button {
+}
+.hip-menu {
+    font-size: 86%;
+}
+.hip-error {
+    color: #C85305;
+    font-size: 86%;
+    line-height: 178%;
+    margin-bottom: 12px;
+    margin-left: -2px;
+    margin-top: 18px;
+    white-space: normal;
+    width: 320px;
+}
+.hip-erroricon {
+    display: none;
+}
+input.hip {
+    height: 1.466em !important;
+    ime-mode: inactive !important;
+    padding: 4px 8px !important;
+    width: 302px !important;
+}
+:root input.hip {
+    border-width: 1px !important;
+}
+html {
+    overflow: auto;
+}
+form {
+    margin: 0;
+}
+div.centerParent, td.centerParent {
+    text-align: center;
+}
+div.center, table.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+h1.cssSubHeader {
+    font-size: 2.55em;
+    line-height: 110%;
+    margin-bottom: 30px;
+}
+
+div.SignUp {
+    margin-top: 50px;
+}
+div.floatLeft {
+    float: left;
+}
+div.signInHeader {
+    margin-left: 100px;
+}
+div.signUpFloat {
+    bottom: 0;
+    left: 0;
+    margin-left: 100px;
+    position: absolute;
+}
+input.otc[type="submit"] {
+    height: auto;
+    max-width: 200px;
+    min-height: 2.142em;
+    word-wrap: break-word;
+}
+.StandardPaddingLeft {
+    margin-left: 10px;
+}
+.XLargePaddingRight {
+    margin-right: 20px;
+}
+div.footer {
+    border-top: 1px solid #CCCCCC;
+    font-size: 86%;
+}
+table.footer {
+    padding: 10px 0;
+    width: 100%;
+}
+td.footerfirst, td.footerfirst td {
+    text-align: left;
+}
+td.footersecond, td.footersecond td {
+    text-align: right;
+}
+td.footerspace {
+    width: 10px;
+}
+a.footerlink {
+    color: #000000;
+}
+span.proofIcon {
+    margin-right: 5px;
+    vertical-align: bottom;
+}
+div.row.large span.proof {
+    vertical-align: top;
+}
+div.helpLink div.spinner {
+    margin-top: 4px;
+}
+div.spinner img {
+    vertical-align: middle;
+}
+div.spinner span {
+    font-size: 86%;
+}
+input {
+
+    border: 5px solid white; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+}
