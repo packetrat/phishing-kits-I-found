@@ -1,0 +1,108 @@
+body{
+	/*font-family: "Helvetica Neue", Helvetica, Verdana, Tahoma, Arial, sans-serif;*/
+	font-family: "Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,sans-serif;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+a:link, a:visited, a:hover, a:active{
+	color:#0072c6;
+	text-decoration: none;
+}
+
+
+.known-user{
+	font-weight: bold;
+    margin: 20px;
+}
+
+.error{
+	color: #c85305;
+    margin-bottom:5px;
+}
+
+.user-error{
+	margin-bottom: 15px;
+}
+
+#container{
+	position:relative;
+    padding-top: 20px;
+}
+
+.logo{
+    width: 285px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 15px;
+}
+
+.content{
+    width: 350px;
+    margin: 0 auto;
+}
+
+.header-wrapper{
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.header-text, h2 {
+    font-size: 2.125rem;
+    font-weight: 300;
+    line-height: 2rem;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
+
+.login-data{
+    width: 355px;
+    height: 35px;
+    border:2px solid #999999;
+    padding-left: 5px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.forgot {
+    font-size: 14px;
+}
+
+.brand{
+    font-size: 12px;
+    color: #6e6d6d;
+}
+
+input[type="text"]:focus, input[type="password"]:focus { 
+    border:2px solid #0078d7;
+}
+
+.input-fields{
+    text-align: center;
+}
+.input-fields input{
+    font-size: 14px;
+}
+
+.input-checkbox{
+    margin-bottom: 20px;
+}
+
+.btn-primary, input.btn-primary[type="submit"]{
+    background-color: #0078d7;
+    border-color: #0078d7;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    height: 34px;
+    width: 100%;
+    text-align: center;
+    font: inherit;
+}
+.btn-primary:hover, input.btn-primary[type="submit"]:hover{
+    border:2px solid #004e8c;
+}
